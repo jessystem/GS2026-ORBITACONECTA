@@ -195,7 +195,7 @@ with col_logo:
     st.markdown("<h1 style='font-size:48px;margin:0'>🛰️</h1>", unsafe_allow_html=True)
 with col_title:
     st.markdown("<h1 style='margin:0;color:#1E3A5F'>OrbitaConecta</h1>", unsafe_allow_html=True)
-    st.markdown("<p style='color:#666;margin:0'>Plataforma de Inteligência Espacial para Inclusão Digital Rural · Global Solution 2025</p>", unsafe_allow_html=True)
+    st.markdown("<p style='color:#666;margin:0'>Plataforma de Inteligência Espacial para Inclusão Digital Rural · Global Solution 2026</p>", unsafe_allow_html=True)
 
 st.markdown("---")
 
